@@ -1,0 +1,121 @@
+[
+  {
+    "query": "bhai ek accha sa 43 inch 4K LED smart tv chahiye 20000 ke andar Samsung ya LG",
+    "query_language": "Hinglish",
+    "intent": "buy",
+    "product": "smart television",
+    "category": "electronics",
+    "screen_size": "43 inch",
+    "resolution": "4K",
+    "display_type": "LED",
+    "brand": ["Samsung", "LG"],
+    "price_upper_limit": 20000
+  },
+  {
+    "query": "50 rupaye wala chandan agarbatti 20 stick box wholesale 1000 boxes",
+    "query_language": "Hinglish",
+    "intent": "buy",
+    "product": "incense sticks",
+    "product_local_name": "chandan agarbatti",
+    "category": "home & spirituality",
+    "scent": "sandalwood",
+    "sticks_per_box": 20,
+    "quantity": "1000",
+    "unit": "boxes",
+    "price_per_unit": 50,
+    "seller_type": "wholesaler"
+  },
+  {
+    "query": "20000 रुपये से कम में 43 इंच 4K LED स्मार्ट टीवी चाहिए",
+    "query_language": "Hindi",
+    "intent": "buy",
+    "product": "smart television",
+    "category": "electronics",
+    "screen_size": "43 inch",
+    "resolution": "4K",
+    "display_type": "LED",
+    "price_upper_limit": 20000
+  },
+  {
+    "query": "FLIR E8-XT thermal imaging camera 320x240 IR resolution MSX enhancement -20 to 550 degree range",
+    "query_language": "English",
+    "intent": "buy",
+    "product": "thermal imaging camera",
+    "category": "industrial equipment",
+    "brand": "FLIR",
+    "model": "E8-XT",
+    "resolution": "320x240",
+    "sensor_type": "IR",
+    "enhancement_tech": "MSX",
+    "temperature_range": "-20 to 550 degrees Celsius"
+  },
+  {
+    "query": "sonamasoori steam rice 6 months old 1000 to 1100 rupees 50 kg bag wholesaler",
+    "query_language": "English",
+    "intent": "buy",
+    "product": "rice",
+    "product_local_name": "sonamasoori steam rice",
+    "category": "food & agriculture",
+    "variety": "sonamasoori",
+    "type": "steam",
+    "age_freshness": "6 months old",
+    "quantity": "50",
+    "unit": "kg",
+    "packaging": "bag",
+    "price_lower_limit": 1000,
+    "price_upper_limit": 1100,
+    "seller_type": "wholesaler"
+  },
+  {
+    "query": "કંથરાઈ ઈટ મલશે",
+    "query_language": "Gujarati",
+    "intent": "sell",
+    "product": "bricks",
+    "product_local_name": "Kanthrai bricks",
+    "category": "construction materials",
+    "variety": "Kanthrai"
+  },
+  {
+    "query": "100 gsm silver laminate paper roll 48rs per kg ke rate per moradabad or noida ke aas paas ke area me",
+    "query_language": "Hinglish",
+    "intent": "buy",
+    "product": "laminate paper roll",
+    "category": "paper & stationery",
+    "gsm": 100,
+    "color": "silver",
+    "material": "laminate",
+    "packaging": "roll",
+    "price_per_kg": 48,
+    "location": "Moradabad or Noida region"
+  },
+  {
+    "query": "double wall corrugated cardboard box 30x20x15 cm 3 ply for fragile items 500 pcs",
+    "query_language": "English",
+    "intent": "buy",
+    "product": "corrugated cardboard box",
+    "category": "packaging materials",
+    "type": "double wall",
+    "material": "corrugated cardboard",
+    "dimensions": "30x20x15 cm",
+    "ply": 3,
+    "use_case": "for fragile items",
+    "quantity": "500",
+    "unit": "pcs"
+  },
+  {
+    "query": "Half anna bechana hai",
+    "query_language": "Hindi",
+    "intent": "sell",
+    "product": "half anna coin",
+    "category": "antiques & collectibles"
+  },
+  {
+    "query": "నాకు 500 వాట్ల సోలార్ ప్యానెల్ కావాలి ఇంటి కోసం",
+    "query_language": "Telugu",
+    "intent": "buy",
+    "product": "solar panel",
+    "category": "renewable energy",
+    "wattage": 500,
+    "use_case": "home use"
+  }
+]
